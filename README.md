@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omlanke&label=Profile%20views&color=0e75b6&style=flat" alt="omlanke" /> </p>
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **DSA**, and **Full Stack**
 
 - 💬 Ask me about **Python**
 
