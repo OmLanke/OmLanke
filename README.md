@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om Lanke</h1>
 <h3 align="center">A passionate CSE student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omlanke&label=Profile%20views&color=0e75b6&style=flat" alt="omlanke" /> </p>
-
-- 🌱 I’m currently learning **DSA**, and **Full Stack**
+- 🌱 I’m currently learning **DSA**, and **Full Stack** development
 
 - 💬 Ask me about **Python**
 
