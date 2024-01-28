@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om Lanke</h1>
 <h3 align="center">A passionate CSE student from India</h3>
 
-- 🌱 I’m currently learning **DSA**, and **Full Stack** development
+- 🌱 I’m currently learning **Go**, **DSA**, and **Full Stack** development
 
 - 💬 Ask me about **Python**
 
