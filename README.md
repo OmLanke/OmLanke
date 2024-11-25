@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om Lanke</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">Full-Stack Developer | CSI - KJSCE Student's Chapter</h3>
 
-- 🌱 I’m currently learning **Next.js, Django, Go Lang**
+- 🌱 I’m currently learning **Hono, Svelte, Cloudflare Stack**
 
 - 💬 Ask me about **Python, React, Tailwind**
 
