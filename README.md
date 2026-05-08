@@ -15,9 +15,9 @@
 
 ## Who I Am
 
-I'm a CS undergrad at KJSCE Mumbai who builds things end-to-end and ships them. I've taken an attendance platform from zero to production on Android + web, won back-to-back Web3 hackathons, and run a 15,000-person national hackathon as General Secretary of my college's CSI chapter. I write TypeScript, Python, Go, Solidity, and Java, whatever the problem needs.
+CS undergrad at KJSCE Mumbai. I build things end-to-end and ship them. I took an attendance platform from zero to production on Android and web, won back-to-back Web3 hackathons, and ran a national hackathon with 15,000+ registrations as General Secretary of my college's CSI chapter. TypeScript, Python, Go, Solidity, Java - I pick whatever the problem needs.
 
-I care about product quality, system correctness, and shipping code that real people use.
+Product quality and system correctness matter to me. I care about shipping code that real people actually use.
 
 ---
 
@@ -25,92 +25,98 @@ I care about product quality, system correctness, and shipping code that real pe
 
 | | Hackathon | Project | What |
 |---|---|---|---|
-| **Winner** | ETH Mumbai 2026 | [D3PLOY](https://d3ploy.xyz) | Decentralised CI/CD — deploy to IPFS, bind to ENS, never get de-platformed |
-| **Winner** | BNB Chain × YZI Labs Hack Bengaluru 2026 | [Ghost Privacy Suite](https://theghostlabs.xyz) | ZK private USDC transfers — Groth16 proofs, ERC-4337 gas sponsorship, zero on-chain link |
+| **Winner** | ETH Mumbai 2026 | [D3PLOY](https://d3ploy.xyz) · [GitHub](https://github.com/altf4-games/ETH-New-Delhi) | Decentralised CI/CD: deploy to IPFS, bind to ENS, and never get de-platformed |
+| **Winner** | BNB Chain × YZI Labs Hack Bengaluru 2026 | [Ghost Privacy Suite](https://theghostlabs.xyz) · [GitHub](https://github.com/Arnab-Afk/BNB) | ZK private USDC transfers with Groth16 proofs, ERC-4337 gas sponsorship, and zero on-chain link |
 
 ---
 
 ## Featured Projects
 
-### Absense — Attendance Intelligence Platform
+### Absense - Attendance Intelligence Platform
 > Production. Android + web + admin + API.
 
 [![absense.xyz](https://img.shields.io/badge/Live-absense.xyz-0052FF?style=flat-square)](https://absense.xyz)
+[![GitHub](https://img.shields.io/badge/GitHub-Unchanted%2FBunkmeter-181717?style=flat-square&logo=github)](https://github.com/Unchanted/Bunkmeter)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
 ![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-Most attendance tools are passive scoreboards. Absense is an active decision engine. Students get live lecture tracking, attendance-risk signals, and a skip-scenario planner — not just a percentage. Ships as a full monorepo: Expo app, Next.js admin panel, Bun/Elysia API, and marketing site, with OTA JS updates and native APK delivery managed in-house.
+Most attendance tools just show you a percentage. Absense gives students live lecture tracking, risk signals, and a skip-scenario planner so they can make actual decisions about attendance. Ships as a full monorepo: Expo app, Next.js admin panel, Bun/Elysia API, and a marketing site. OTA JS updates and native APK delivery are both managed in-house.
 
 ---
 
-### Ghost Privacy Suite — ZK Private Transfers `[Winner, BNB × YZI Labs 2026]`
+### Ghost Privacy Suite - ZK Private Transfers `[Winner, BNB × YZI Labs 2026]`
 
 [![theghostlabs.xyz](https://img.shields.io/badge/Live-theghostlabs.xyz-orange?style=flat-square)](https://theghostlabs.xyz)
+[![GitHub](https://img.shields.io/badge/GitHub-Arnab--Afk%2FBNB-181717?style=flat-square&logo=github)](https://github.com/Arnab-Afk/BNB)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
 ![Circom](https://img.shields.io/badge/Circom%2FGroth16-6E4AFF?style=flat-square)
 ![ERC-4337](https://img.shields.io/badge/ERC--4337-blue?style=flat-square)
 ![BNB Chain](https://img.shields.io/badge/BNB_Chain-F3BA2F?style=flat-square&logo=bnbchain&logoColor=222222)
 
-Poseidon Merkle-tree privacy pool + Groth16 ZK proofs on BNB Chain. A user with **zero BNB** can withdraw USDC from the pool to a fresh wallet — gas sponsored by a paymaster, settled in USDC. Depositor and recipient are cryptographically unlinkable. Full relay backend (Fastify + BullMQ), sanctions screening, ERC-4337 AA — live with verified on-chain transactions.
+Poseidon Merkle-tree privacy pool with Groth16 ZK proofs on BNB Chain. The interesting part: a user with **zero BNB** can withdraw USDC from the pool to a fresh wallet, with gas sponsored by a paymaster and settled in USDC. Depositor and recipient are cryptographically unlinkable. Full relay backend (Fastify + BullMQ), sanctions screening, ERC-4337 AA - live with verified on-chain transactions.
 
 ---
 
-### D3PLOY — Censorship-Resistant Hosting `[Winner, ETH Mumbai 2026]`
+### D3PLOY - Censorship-Resistant Hosting `[Winner, ETH Mumbai 2026]`
 
 [![d3ploy.xyz](https://img.shields.io/badge/Live-d3ploy.xyz-brightgreen?style=flat-square)](https://d3ploy.xyz)
+[![GitHub](https://img.shields.io/badge/GitHub-altf4--games%2FETH--New--Delhi-181717?style=flat-square&logo=github)](https://github.com/altf4-games/ETH-New-Delhi)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
 ![ENS](https://img.shields.io/badge/ENS-5298FF?style=flat-square&logo=ens)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-`web3deploy` CLI + L2 ENS resolver. One command: pack, pin to IPFS/Filecoin, update ENS contenthash, done. Subdomain issuance is gasless via ERC-3668 CCIP-Read and ENSIP-10 offchain lookup. Sites hosted this way cannot be taken down by any centralised party.
+`web3deploy` CLI and L2 ENS resolver. One command packs your site, pins it to IPFS/Filecoin, and updates the ENS contenthash. Subdomain issuance is gasless via ERC-3668 CCIP-Read and ENSIP-10 offchain lookup. Sites hosted this way can't be taken down by any centralised party.
 
 ---
 
-### 3pm — npm Supply Chain Security
+### 3pm - npm Supply Chain Security
 
+[![GitHub](https://img.shields.io/badge/GitHub-Unchanted%2Frasmalai-181717?style=flat-square&logo=github)](https://github.com/Unchanted/rasmalai)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
 ![Base](https://img.shields.io/badge/Base_L2-0052FF?style=flat-square&logo=coinbase)
 
-M-of-N multisig release authorization for npm. A single stolen token can no longer push a malicious package — publishing requires threshold EIP-712 signatures from independent co-signers, verified on-chain against the maintainer list. Consumers verify downloaded bytes against the on-chain content hash. Includes AI-assisted diff analysis before co-signers approve. Solves the structural root cause behind event-stream, ua-parser-js, node-ipc, xz-utils.
+M-of-N multisig release authorization for npm. A single stolen token can no longer push a malicious package - publishing requires threshold EIP-712 signatures from independent co-signers, verified on-chain against the maintainer list. Consumers verify downloaded bytes against the on-chain content hash. Includes AI-assisted diff analysis before co-signers approve. Addresses the structural root cause behind event-stream, ua-parser-js, node-ipc, and xz-utils.
 
 ---
 
-### zkPay — ZK-Gated P2P Lending on Base
+### zkPay - ZK-Gated P2P Lending on Base
 
+[![GitHub](https://img.shields.io/badge/GitHub-OmLanke%2FzkPay-181717?style=flat-square&logo=github)](https://github.com/OmLanke/zkPay)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
 ![Circom](https://img.shields.io/badge/Circom%2FGroth16-6E4AFF?style=flat-square)
 ![Python](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=222222)
 ![Base L2](https://img.shields.io/badge/Base_L2-0052FF?style=flat-square&logo=coinbase)
 ![The Graph](https://img.shields.io/badge/The_Graph-6747ED?style=flat-square)
 
-Privacy-first P2P lending for Indian micro-lending. KYC via Groth16 proofs generated entirely client-side — no raw PII leaves the browser. AI credit scoring (LightGBM, AUC 0.845) pushes ECDSA-signed score hashes on-chain. Smart contracts enforce full loan state machine. Non-transferable soulbound reputation token (ZKREP) awarded per outcome. DAO governance with 48h timelock.
+Privacy-first P2P lending for Indian micro-lending. KYC runs as Groth16 proofs generated entirely client-side, so no raw PII ever leaves the browser. AI credit scoring with LightGBM (AUC 0.845) pushes ECDSA-signed score hashes on-chain. Smart contracts enforce the full loan state machine. Non-transferable soulbound reputation token (ZKREP) awarded per outcome. DAO governance with a 48h timelock.
 
 ---
 
-### TicketFlow — Polyglot Microservice Platform
+### TicketFlow - Polyglot Microservice Platform
 
+[![GitHub](https://img.shields.io/badge/GitHub-OmLanke%2Ffms-181717?style=flat-square&logo=github)](https://github.com/OmLanke/fms)
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes+KEDA-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Full booking lifecycle (seat lock → payment → confirm) as a Kafka choreography saga — no central orchestrator. Database-per-service. KEDA autoscaling reacts to Kafka consumer lag. Includes Prometheus, Grafana, Jaeger, and Loki out of the box. Each of the 5 services (Spring Boot, FastAPI, Bun/Elysia) uses the runtime best suited to its workload.
+Full booking lifecycle (seat lock, payment, confirm) as a Kafka choreography saga with no central orchestrator. Database-per-service. KEDA autoscaling reacts to Kafka consumer lag. Prometheus, Grafana, Jaeger, and Loki are included out of the box. Each of the 5 services (Spring Boot, FastAPI, Bun/Elysia) uses the runtime best suited to its workload.
 
 ---
 
-### MeshWallet — Offline Crypto Payments over BLE
+### MeshWallet - Offline Crypto Payments over BLE
 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![ethers.js](https://img.shields.io/badge/ethers.js_v6-2535A0?style=flat-square)
 
-Bump phones to pay — no internet required. Accelerometer detects the physical bump, triggers a BLE handshake, and a signed transaction hops through a mesh of nearby devices until it reaches a node with connectivity and broadcasts to chain. Keys in OS secure enclave, packets AES-256-GCM encrypted.
+Bump phones to pay, no internet required. The accelerometer detects the physical bump, triggers a BLE handshake, and a signed transaction hops through nearby devices until one with connectivity broadcasts it to chain. Keys live in the OS secure enclave and packets are AES-256-GCM encrypted.
 
 ---
 
