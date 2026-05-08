@@ -33,7 +33,7 @@ I care about product quality, system correctness, and shipping code that real pe
 ## Featured Projects
 
 ### Absense — Attendance Intelligence Platform
-> Production. Android + web + admin + API. Solo-built.
+> Production. Android + web + admin + API.
 
 [![absense.xyz](https://img.shields.io/badge/Live-absense.xyz-0052FF?style=flat-square)](https://absense.xyz)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
