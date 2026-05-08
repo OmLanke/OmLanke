@@ -32,21 +32,6 @@ Product quality and system correctness matter to me. I care about shipping code 
 
 ## Featured Projects
 
-### Absense - Attendance Intelligence Platform
-> Production. Android + web + admin + API.
-
-[![absense.xyz](https://img.shields.io/badge/Live-absense.xyz-0052FF?style=flat-square)](https://absense.xyz)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Unchanted/Bunkmeter)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-Most attendance tools just show you a percentage. Absense gives students live lecture tracking, risk signals, and a skip-scenario planner so they can make actual decisions about attendance. Ships as a full monorepo: Expo app, Next.js admin panel, Bun/Elysia API, and a marketing site. OTA JS updates and native APK delivery are both managed in-house.
-
----
-
 ### Ghost Privacy Suite - ZK Private Transfers `[Winner, BNB × YZI Labs 2026]`
 
 [![theghostlabs.xyz](https://img.shields.io/badge/Live-theghostlabs.xyz-orange?style=flat-square)](https://theghostlabs.xyz)
@@ -81,6 +66,21 @@ Poseidon Merkle-tree privacy pool with Groth16 ZK proofs on BNB Chain. The inter
 ![Base](https://img.shields.io/badge/Base_L2-0052FF?style=flat-square&logo=coinbase)
 
 M-of-N multisig release authorization for npm. A single stolen token can no longer push a malicious package - publishing requires threshold EIP-712 signatures from independent co-signers, verified on-chain against the maintainer list. Consumers verify downloaded bytes against the on-chain content hash. Includes AI-assisted diff analysis before co-signers approve. Addresses the structural root cause behind event-stream, ua-parser-js, node-ipc, and xz-utils.
+
+---
+
+### Absense - Attendance Intelligence Platform
+> Production. Android + web + admin + API.
+
+[![absense.xyz](https://img.shields.io/badge/Live-absense.xyz-0052FF?style=flat-square)](https://absense.xyz)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Unchanted/Bunkmeter)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+Most attendance tools just show you a percentage. Absense gives students live lecture tracking, risk signals, and a skip-scenario planner so they can make actual decisions about attendance. Ships as a full monorepo: Expo app, Next.js admin panel, Bun/Elysia API, and a marketing site. OTA JS updates and native APK delivery are both managed in-house.
 
 ---
 
