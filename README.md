@@ -36,7 +36,7 @@ Product quality and system correctness matter to me. I care about shipping code 
 > Production. Android + web + admin + API.
 
 [![absense.xyz](https://img.shields.io/badge/Live-absense.xyz-0052FF?style=flat-square)](https://absense.xyz)
-[![GitHub](https://img.shields.io/badge/GitHub-Unchanted%2FBunkmeter-181717?style=flat-square&logo=github)](https://github.com/Unchanted/Bunkmeter)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Unchanted/Bunkmeter)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
@@ -50,7 +50,7 @@ Most attendance tools just show you a percentage. Absense gives students live le
 ### Ghost Privacy Suite - ZK Private Transfers `[Winner, BNB × YZI Labs 2026]`
 
 [![theghostlabs.xyz](https://img.shields.io/badge/Live-theghostlabs.xyz-orange?style=flat-square)](https://theghostlabs.xyz)
-[![GitHub](https://img.shields.io/badge/GitHub-Arnab--Afk%2FBNB-181717?style=flat-square&logo=github)](https://github.com/Arnab-Afk/BNB)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Arnab-Afk/BNB)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
 ![Circom](https://img.shields.io/badge/Circom%2FGroth16-6E4AFF?style=flat-square)
 ![ERC-4337](https://img.shields.io/badge/ERC--4337-blue?style=flat-square)
@@ -63,7 +63,7 @@ Poseidon Merkle-tree privacy pool with Groth16 ZK proofs on BNB Chain. The inter
 ### D3PLOY - Censorship-Resistant Hosting `[Winner, ETH Mumbai 2026]`
 
 [![d3ploy.xyz](https://img.shields.io/badge/Live-d3ploy.xyz-brightgreen?style=flat-square)](https://d3ploy.xyz)
-[![GitHub](https://img.shields.io/badge/GitHub-altf4--games%2FETH--New--Delhi-181717?style=flat-square&logo=github)](https://github.com/altf4-games/ETH-New-Delhi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/altf4-games/ETH-New-Delhi)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
 ![ENS](https://img.shields.io/badge/ENS-5298FF?style=flat-square&logo=ens)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=FFFFFF)
@@ -75,7 +75,7 @@ Poseidon Merkle-tree privacy pool with Groth16 ZK proofs on BNB Chain. The inter
 
 ### 3pm - npm Supply Chain Security
 
-[![GitHub](https://img.shields.io/badge/GitHub-Unchanted%2Frasmalai-181717?style=flat-square&logo=github)](https://github.com/Unchanted/rasmalai)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Unchanted/rasmalai)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
 ![Base](https://img.shields.io/badge/Base_L2-0052FF?style=flat-square&logo=coinbase)
@@ -86,7 +86,7 @@ M-of-N multisig release authorization for npm. A single stolen token can no long
 
 ### zkPay - ZK-Gated P2P Lending on Base
 
-[![GitHub](https://img.shields.io/badge/GitHub-OmLanke%2FzkPay-181717?style=flat-square&logo=github)](https://github.com/OmLanke/zkPay)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/OmLanke/zkPay)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
 ![Circom](https://img.shields.io/badge/Circom%2FGroth16-6E4AFF?style=flat-square)
 ![Python](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=222222)
@@ -99,7 +99,7 @@ Privacy-first P2P lending for Indian micro-lending. KYC runs as Groth16 proofs g
 
 ### TicketFlow - Polyglot Microservice Platform
 
-[![GitHub](https://img.shields.io/badge/GitHub-OmLanke%2Ffms-181717?style=flat-square&logo=github)](https://github.com/OmLanke/fms)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/OmLanke/fms)
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
@@ -112,6 +112,7 @@ Full booking lifecycle (seat lock, payment, confirm) as a Kafka choreography sag
 
 ### MeshWallet - Offline Crypto Payments over BLE
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/OmLanke/meshwallet)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![ethers.js](https://img.shields.io/badge/ethers.js_v6-2535A0?style=flat-square)
