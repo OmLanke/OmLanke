@@ -15,7 +15,7 @@
 
 ## Who I Am
 
-I'm a CS undergrad at KJSCE Mumbai who builds things end-to-end and ships them. I've taken a solo attendance platform from zero to production on Android + web, won back-to-back Web3 hackathons, and run a 11,000-person national hackathon as General Secretary of my college's CSI chapter. I write TypeScript, Python, Go, Solidity, and Java — whatever the problem needs.
+I'm a CS undergrad at KJSCE Mumbai who builds things end-to-end and ships them. I've taken an attendance platform from zero to production on Android + web, won back-to-back Web3 hackathons, and run a 15,000-person national hackathon as General Secretary of my college's CSI chapter. I write TypeScript, Python, Go, Solidity, and Java, whatever the problem needs.
 
 I care about product quality, system correctness, and shipping code that real people use.
 
@@ -52,7 +52,7 @@ Most attendance tools are passive scoreboards. Absense is an active decision eng
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
 ![Circom](https://img.shields.io/badge/Circom%2FGroth16-6E4AFF?style=flat-square)
 ![ERC-4337](https://img.shields.io/badge/ERC--4337-blue?style=flat-square)
-![BNB Chain](https://img.shields.io/badge/BNB_Chain-F3BA2F?style=flat-square&logo=binance)
+![BNB Chain](https://img.shields.io/badge/BNB_Chain-F3BA2F?style=flat-square&logo=bnbchain&logoColor=222222)
 
 Poseidon Merkle-tree privacy pool + Groth16 ZK proofs on BNB Chain. A user with **zero BNB** can withdraw USDC from the pool to a fresh wallet — gas sponsored by a paymaster, settled in USDC. Depositor and recipient are cryptographically unlinkable. Full relay backend (Fastify + BullMQ), sanctions screening, ERC-4337 AA — live with verified on-chain transactions.
 
@@ -62,8 +62,8 @@ Poseidon Merkle-tree privacy pool + Groth16 ZK proofs on BNB Chain. A user with 
 
 [![d3ploy.xyz](https://img.shields.io/badge/Live-d3ploy.xyz-brightgreen?style=flat-square)](https://d3ploy.xyz)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
-![ENS](https://img.shields.io/badge/ENS_CCIP--Read-5298FF?style=flat-square)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs)
+![ENS](https://img.shields.io/badge/ENS-5298FF?style=flat-square&logo=ens)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 `web3deploy` CLI + L2 ENS resolver. One command: pack, pin to IPFS/Filecoin, update ENS contenthash, done. Subdomain issuance is gasless via ERC-3668 CCIP-Read and ENSIP-10 offchain lookup. Sites hosted this way cannot be taken down by any centralised party.
@@ -84,7 +84,7 @@ M-of-N multisig release authorization for npm. A single stolen token can no long
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
 ![Circom](https://img.shields.io/badge/Circom%2FGroth16-6E4AFF?style=flat-square)
-![Python](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
+![Python](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=222222)
 ![Base L2](https://img.shields.io/badge/Base_L2-0052FF?style=flat-square&logo=coinbase)
 ![The Graph](https://img.shields.io/badge/The_Graph-6747ED?style=flat-square)
 
@@ -155,7 +155,7 @@ Bump phones to pay — no internet required. Accelerometer detects the physical 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black)
 ![wagmi](https://img.shields.io/badge/wagmi-1C1B1F?style=for-the-badge)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=FFFFFF)
 
 </div>
 
