@@ -1,84 +1,180 @@
 <div align="center">
 
-# Om Lanke
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052FF,100:6747ED&height=120&section=header&text=Om%20Lanke&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Full-Stack+%7C+Mobile+%7C+ML+%7C+Distributed+Systems;React+Native+%E2%80%A2+Flutter+%E2%80%A2+Spring+Boot;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+Engineer+%E2%80%94+from+BLE+mesh+to+ZK+circuits;Shipped+Absense+%E2%80%94+live+on+Android+%2B+web;ETH+Mumbai+2026+Winner+%C2%B7+BNB+Hack+Bengaluru+2026+Winner;General+Secretary%2C+CSI-KJSCE+%E2%80%94+11k%2B+registrations)](https://git.io/typing-svg)
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/om-lanke)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/omlanke)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/omlanke)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/oplanke)
-[![Gmail](https://img.shields.io/badge/-oplanke@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oplanke@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-om--lanke-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/om-lanke)
+[![Email](https://img.shields.io/badge/-oplanke@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oplanke@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-omlanke-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/omlanke)
+[![Codeforces](https://img.shields.io/badge/-omlanke-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/omlanke)
 
 </div>
 
-<br/>
+---
 
-CS student @ **KJSCE** · **CSI Student Chapter** · I build distributed backends, cross-platform mobile apps, and generative AI tools.  
-🔭 &nbsp;Exploring **Hono · Svelte · Cloudflare Workers** &nbsp;|&nbsp; 💬 &nbsp;Ask me about **React · Python · Distributed Systems**
+## Who I Am
+
+I'm a CS undergrad at KJSCE Mumbai who builds things end-to-end and ships them. I've taken a solo attendance platform from zero to production on Android + web, won back-to-back Web3 hackathons, and run a 11,000-person national hackathon as General Secretary of my college's CSI chapter. I write TypeScript, Python, Go, Solidity, and Java — whatever the problem needs.
+
+I care about product quality, system correctness, and shipping code that real people use.
 
 ---
 
-## 🚀 Projects
+## Hackathon Wins
 
-**[🔗 MeshWallet](https://github.com/OmLanke/MeshWallet)** — Self-custodial Ethereum wallet that routes signed transactions over a BLE mesh. Offline-first, keys stored in the OS secure enclave, every packet AES-256-GCM encrypted.  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![ethers.js](https://img.shields.io/badge/ethers.js_v6-2535A0?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
-
-<br/>
-
-**[🎟️ TicketFlow](https://github.com/OmLanke/fms)** — Polyglot microservice ticketing platform. Booking lifecycle (seat lock → payment → confirm) runs as a choreography saga over Kafka. Ships with Prometheus + Grafana + Jaeger and KEDA autoscaling.  
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-<br/>
-
-**[🪑 Ticketly](https://github.com/OmLanke/ticketly)** — React Native event booking app with an interactive SVG venue seat map, Redux + CartContext dual-state design, offline QR tickets in AsyncStorage, and unit test coverage.  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-
-<br/>
-
-**[🎓 NextPlacement](https://github.com/OmLanke/nextplacement)** — Turborepo monorepo placement portal with separate student and admin Next.js apps, shared shadcn/ui packages, and Docker Compose dev + production configs.  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
-
-<br/>
-
-**[🏫 RedCard](https://github.com/OmLanke/red_card)** — Flutter campus event app for Somaiya College. Students register one-tap and get scannable QR tickets; council admins manage events and track attendance. Role-based access enforced via Firebase rules.  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Riverpod](https://img.shields.io/badge/Riverpod-00ADEF?style=flat-square)
+| | Hackathon | Project | What |
+|---|---|---|---|
+| **Winner** | ETH Mumbai 2026 | [D3PLOY](https://d3ploy.xyz) | Decentralised CI/CD — deploy to IPFS, bind to ENS, never get de-platformed |
+| **Winner** | BNB Chain × YZI Labs Hack Bengaluru 2026 | [Ghost Privacy Suite](https://theghostlabs.xyz) | ZK private USDC transfers — Groth16 proofs, ERC-4337 gas sponsorship, zero on-chain link |
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Projects
+
+### Absense — Attendance Intelligence Platform
+> Production. Android + web + admin + API. Solo-built.
+
+[![absense.xyz](https://img.shields.io/badge/Live-absense.xyz-0052FF?style=flat-square)](https://absense.xyz)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+Most attendance tools are passive scoreboards. Absense is an active decision engine. Students get live lecture tracking, attendance-risk signals, and a skip-scenario planner — not just a percentage. Ships as a full monorepo: Expo app, Next.js admin panel, Bun/Elysia API, and marketing site, with OTA JS updates and native APK delivery managed in-house.
+
+---
+
+### Ghost Privacy Suite — ZK Private Transfers `[Winner, BNB × YZI Labs 2026]`
+
+[![theghostlabs.xyz](https://img.shields.io/badge/Live-theghostlabs.xyz-orange?style=flat-square)](https://theghostlabs.xyz)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
+![Circom](https://img.shields.io/badge/Circom%2FGroth16-6E4AFF?style=flat-square)
+![ERC-4337](https://img.shields.io/badge/ERC--4337-blue?style=flat-square)
+![BNB Chain](https://img.shields.io/badge/BNB_Chain-F3BA2F?style=flat-square&logo=binance)
+
+Poseidon Merkle-tree privacy pool + Groth16 ZK proofs on BNB Chain. A user with **zero BNB** can withdraw USDC from the pool to a fresh wallet — gas sponsored by a paymaster, settled in USDC. Depositor and recipient are cryptographically unlinkable. Full relay backend (Fastify + BullMQ), sanctions screening, ERC-4337 AA — live with verified on-chain transactions.
+
+---
+
+### D3PLOY — Censorship-Resistant Hosting `[Winner, ETH Mumbai 2026]`
+
+[![d3ploy.xyz](https://img.shields.io/badge/Live-d3ploy.xyz-brightgreen?style=flat-square)](https://d3ploy.xyz)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
+![ENS](https://img.shields.io/badge/ENS_CCIP--Read-5298FF?style=flat-square)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+`web3deploy` CLI + L2 ENS resolver. One command: pack, pin to IPFS/Filecoin, update ENS contenthash, done. Subdomain issuance is gasless via ERC-3668 CCIP-Read and ENSIP-10 offchain lookup. Sites hosted this way cannot be taken down by any centralised party.
+
+---
+
+### 3pm — npm Supply Chain Security
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
+![Base](https://img.shields.io/badge/Base_L2-0052FF?style=flat-square&logo=coinbase)
+
+M-of-N multisig release authorization for npm. A single stolen token can no longer push a malicious package — publishing requires threshold EIP-712 signatures from independent co-signers, verified on-chain against the maintainer list. Consumers verify downloaded bytes against the on-chain content hash. Includes AI-assisted diff analysis before co-signers approve. Solves the structural root cause behind event-stream, ua-parser-js, node-ipc, xz-utils.
+
+---
+
+### zkPay — ZK-Gated P2P Lending on Base
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
+![Circom](https://img.shields.io/badge/Circom%2FGroth16-6E4AFF?style=flat-square)
+![Python](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
+![Base L2](https://img.shields.io/badge/Base_L2-0052FF?style=flat-square&logo=coinbase)
+![The Graph](https://img.shields.io/badge/The_Graph-6747ED?style=flat-square)
+
+Privacy-first P2P lending for Indian micro-lending. KYC via Groth16 proofs generated entirely client-side — no raw PII leaves the browser. AI credit scoring (LightGBM, AUC 0.845) pushes ECDSA-signed score hashes on-chain. Smart contracts enforce full loan state machine. Non-transferable soulbound reputation token (ZKREP) awarded per outcome. DAO governance with 48h timelock.
+
+---
+
+### TicketFlow — Polyglot Microservice Platform
+
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes+KEDA-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+Full booking lifecycle (seat lock → payment → confirm) as a Kafka choreography saga — no central orchestrator. Database-per-service. KEDA autoscaling reacts to Kafka consumer lag. Includes Prometheus, Grafana, Jaeger, and Loki out of the box. Each of the 5 services (Spring Boot, FastAPI, Bun/Elysia) uses the runtime best suited to its workload.
+
+---
+
+### MeshWallet — Offline Crypto Payments over BLE
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![ethers.js](https://img.shields.io/badge/ethers.js_v6-2535A0?style=flat-square)
+
+Bump phones to pay — no internet required. Accelerometer detects the physical bump, triggers a BLE handshake, and a signed transaction hops through a mesh of nearby devices until it reaches a node with connectivity and broadcasts to chain. Keys in OS secure enclave, packets AES-256-GCM encrypted.
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
+**Frontend & Mobile**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+**Backend & Infrastructure**
+
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+**Web3**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black)
+![wagmi](https://img.shields.io/badge/wagmi-1C1B1F?style=for-the-badge)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-navy-five-86.vercel.app/api?username=omlanke&show_icons=true&theme=vision-friendly-dark&locale=en&hide_border=true" height="160"/>
+<div align="center">
+  <img src="https://github-readme-stats-navy-five-86.vercel.app/api?username=omlanke&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats-navy-five-86.vercel.app/api/top-langs?username=omlanke&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact&hide_border=true" height="160"/>
-</p>
+  <img src="https://github-readme-stats-navy-five-86.vercel.app/api/top-langs?username=omlanke&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omlanke&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6747ED,100:0052FF&height=80&section=footer" width="100%"/>
+</div>
