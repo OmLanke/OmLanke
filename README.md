@@ -25,7 +25,7 @@ Product quality and system correctness matter to me. I care about shipping code 
 
 | | Hackathon | Project | What |
 |---|---|---|---|
-| **Winner** | ETH Mumbai 2026 | [D3PLOY](https://d3ploy.xyz) · [GitHub](https://github.com/altf4-games/ETH-New-Delhi) | Decentralised CI/CD: deploy to IPFS, bind to ENS, and never get de-platformed |
+| **Winner** | ETH Mumbai 2026 | [D3PLOY](https://d3ploy.xyz) · [GitHub](https://github.com/Arnab-Afk/ethmumbai) | Decentralised CI/CD: deploy to IPFS, bind to ENS, and never get de-platformed |
 | **Winner** | BNB Chain × YZI Labs Hack Bengaluru 2026 | [Ghost Privacy Suite](https://theghostlabs.xyz) · [GitHub](https://github.com/Arnab-Afk/BNB) | ZK private USDC transfers with Groth16 proofs, ERC-4337 gas sponsorship, and zero on-chain link |
 
 ---
